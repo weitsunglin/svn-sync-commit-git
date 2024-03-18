@@ -15,3 +15,8 @@
 4. 設定svn hook script
 
 ![svn check](https://github.com/weitsunglin/svn-sync-commit-git/blob/main/step3.jpg)
+
+
+## 目前設定只將 [ trunk ] 同步commit 至 github
+1. 如果在branches開發，不會同步commit到igs git
+2. 如果切到trunk，將branche merger過來，再commit，就會同步到github了
