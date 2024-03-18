@@ -3,7 +3,7 @@
 1. 將要同步commit的項目，滑鼠右鍵點選要同步commit的資料夾，git create  local repository 
 
 
-2. 將 local repository 設定 remote repository
+2. 將 local repository 設定 remote repository (ex: https://github.com/OLD-RD2/test.git)
 
 ![remote setting](https://github.com/weitsunglin/svn-sync-commit-git/blob/main/step1.jpg)
 
