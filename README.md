@@ -1,6 +1,6 @@
-# svn sync commit git tutorial
+# svn sync commit git tutorial [使用git財寶樹龜]
 
-1. 將要同步commit的項目，點選右鍵 (以 git 財寶烏龜為例)，git create  local repository 
+1. 將要同步commit的項目，滑鼠右鍵點選要同步commit的資料夾，git create  local repository 
 
 
 2. 將 local repository 設定 remote repository
